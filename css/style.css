@@ -1,5 +1,7 @@
-.h1{
+h1{
     background-color: red;
-    font-size: 2em;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 10em;
 
 }
